@@ -1,5 +1,5 @@
 <template>
   <div>
-    users:{{$route.params}}
+    users:{{$route.params}} dev
   </div>
 </template>
